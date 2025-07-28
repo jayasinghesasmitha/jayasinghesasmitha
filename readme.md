@@ -79,7 +79,7 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="www.linkedin.com/in/sasmitha-jayasinghe-172b2a242" target="_blank">
+  <a href="[www.linkedin.com/in/sasmitha-jayasinghe-172b2a242](https://www.linkedin.com/in/sasmitha-jayasinghe-172b2a242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sasmitha.22@cse.mrt.ac.lk">
