@@ -79,10 +79,10 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sasmitha-jayasinghe/" target="_blank">
+  <a href="www.linkedin.com/in/sasmitha-jayasinghe-172b2a242" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sasmitha.email@gmail.com">
+  <a href="mailto:sasmitha.22@cse.mrt.ac.lk">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jayasinghesasmitha" target="_blank">
