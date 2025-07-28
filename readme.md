@@ -5,22 +5,20 @@
 <h1 align="center">🧠 Innovator | 🤖 Roboticist | 📱 App Dev | 🧩 Tech Tinkerer</h1>
 
 ---
+📌 Who Am I?
 
-### 📌 Who am I?
+👤 Name:        Sasmitha Jayasinghe
+🎓 Role:        Final-Year Undergraduate @ University of Moratuwa
+🎯 Goals:
+  - 🚀 Solve real-world problems with technology
+  - 🤖 Build smart, autonomous systems
+  - 🌍 Empower humans through intelligent machines
+💡 Interests:
+  - 🛠️ Robotics, ROS2, Arduino, Embedded Systems
+  - 🧠 Artificial Intelligence & Machine Learning
+  - 📱 Flutter, Firebase
+  - 🌐 React (Web & Mobile) Development
 
-name: Sasmitha Jayasinghe
-role: Final-Year Undergraduate @ University of Moratuwa
-goals:
-  - Solve real-world problems with tech
-  - Build smart, autonomous systems
-  - Empower humans with intelligent machines
-interests:
-  - Robotics, ROS2, Arduino, Embedded
-  - AI & ML
-  - Flutter & Firebase
-  - React Web & Mobile Apps
-
----
 
 ### 🚀 Tech Stack Mastery
 
