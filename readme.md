@@ -1,5 +1,3 @@
-<!-- GitHub Profile README for jayasinghesasmitha -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6F00FF&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Sasmitha+Jayasinghe!;AI+%7C+IoT+%7C+Robotics+%7C+Mobile+Dev+%7C+Fullstack+Explorer;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Typing SVG">
 </p>
@@ -9,7 +7,7 @@
 ---
 
 ### 📌 Who am I?
-```yaml
+
 name: Sasmitha Jayasinghe
 role: Final-Year Undergraduate @ University of Moratuwa
 goals:
@@ -21,7 +19,6 @@ interests:
   - AI & ML
   - Flutter & Firebase
   - React Web & Mobile Apps
-````
 
 ---
 
@@ -107,14 +104,3 @@ interests:
 ```
 
 ---
-
-## 📌 Next Steps:
-
-1. Create a repo named **`jayasinghesasmitha`**
-2. Add the above `README.md` to it.
-3. Pin your best repos on your GitHub profile.
-4. Update project links (`[View](#)`) with actual repo URLs.
-
----
-
-Would you like help generating **project preview GIFs**, **badges for skills**, or **interactive portfolio cards** next?
