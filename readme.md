@@ -1,134 +1,121 @@
-👋 Welcome to Sasmitha Uvindu Jayasinghe's GitHub! 🌟
-Hey there! I'm Sasmitha Uvindu Jayasinghe, a passionate developer from Sri Lanka, turning ideas into code with creativity and precision. My GitHub is a hub of innovation—dive in to explore my projects and let’s create something extraordinary! 🚀
+````markdown
+<!-- GitHub Profile README for jayasinghesasmitha -->
 
-🛠️ Languages I Master
-I wield a versatile set of programming languages to build awesome solutions:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6F00FF&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Sasmitha+Jayasinghe!;AI+%7C+IoT+%7C+Robotics+%7C+Mobile+Dev+%7C+Fullstack+Explorer;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Typing SVG">
+</p>
 
-☕ Java: Crafting robust, scalable applications.
-🐍 Python: Driving data analysis, automation, and AI.
-💻 C++: Powering high-performance systems and algorithms.
-🔌 VHDL: Designing hardware and digital systems.
-🎯 Dart: Building sleek, cross-platform apps with Flutter.
+<h1 align="center">🧠 Innovator | 🤖 Roboticist | 📱 App Dev | 🧩 Tech Tinkerer</h1>
 
+---
 
-🧠 Core Competencies
-I thrive on solving complex problems with these skills:
+### 📌 Who am I?
+```yaml
+name: Sasmitha Jayasinghe
+role: Final-Year Undergraduate @ University of Moratuwa
+goals:
+  - Solve real-world problems with tech
+  - Build smart, autonomous systems
+  - Empower humans with intelligent machines
+interests:
+  - Robotics, ROS2, Arduino, Embedded
+  - AI & ML
+  - Flutter & Firebase
+  - React Web & Mobile Apps
+````
 
-🏗️ Object-Oriented Programming: Writing modular, reusable code.
-🖼️ Image Processing: Transforming visuals with algorithms.
-🌐 Full Stack Development: Delivering end-to-end web solutions.
-📱 App Development: Creating user-friendly mobile experiences.
+---
 
+### 🚀 Tech Stack Mastery
 
-📊 My Coding Journey in Charts
-Language Contributions
-See how my coding efforts are split across languages! 📈
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,dart,js,ts,html,css,react,flutter,firebase,nodejs,mysql,mongodb,arduino,git,vscode,docker" />
+</p>
 
+---
 
-Java: ~35% ⚡
-Python: ~30% 🐍
-C++: ~20% 🚀
-VHDL: ~10% 🔌
-Dart: ~5% 🎯
+### 🔥 GitHub Stats & Insights
 
-Contribution Streak
-My coding activity lights up the grid! 🔥 Check out my commits over time.
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayasinghesasmitha&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasinghesasmitha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Skill Proficiency
-My expertise levels, rated on a scale of 1–10! 🌟
+---
 
+### 📈 Activity & Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasinghesasmitha&theme=github-compact&area=true&hide_border=true" />
+</p>
 
-Skill
-Proficiency
+---
 
+### ⚡ Streaks & Trophies
 
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=jayasinghesasmitha&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=jayasinghesasmitha&theme=dracula&row=1&column=6&no-bg=true&no-frame=true" />
+</p>
 
-Object-Oriented Programming
-█████████ 9/10
+---
 
+### 📚 Projects I'm Proud Of
 
-Image Processing
-███████ 7/10
+| 💡 Project                      | 🚀 Tech Stack                 | 🔗 Links  |
+| ------------------------------- | ----------------------------- | --------- |
+| **ROS2 Bot Simulation**         | ROS2, URDF, Gazebo, C++       | [View](#) |
+| **MoodSync Lamp**               | Flutter, Firebase, Emotion AI | [View](#) |
+| **AI Book Recommender**         | Python, NLP, Streamlit        | [View](#) |
+| **Voice-Controlled Wheelchair** | Arduino, Sensors, ML          | [View](#) |
+| **BookEx Web App**              | React.js, Firebase            | [View](#) |
 
+---
 
-Full Stack Development
-████████ 8/10
+### 🎯 Currently Exploring
 
+* 🔬 Computer Vision + Deep Learning
+* 🛰️ ROS2 Navigation Stack
+* ☁️ Cloud Functions + App Deployment
+* 🧠 Neural Networks on Edge Devices
+* 🔐 Firebase Auth + Firestore
 
-App Development
-██████ 6/10
+---
 
+### 🤝 Let's Connect!
 
-Productivity Pulse
-My coding efficiency peaks during the week! 📅
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
-    "datasets": [{
-      "label": "Coding Hours",
-      "data": [8, 9, 8, 6, 6, 4, 3],
-      "backgroundColor": ["#FF6B6B", "#4ECDC4", "#45B7D1", "#96CEB4", "#FFEEAD", "#D4A5A5", "#9B59B6"],
-      "borderColor": ["#FF4D4D", "#3AAFA9", "#2A9D8F", "#78B7A3", "#FFD166", "#C08497", "#8E44AD"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "title": {
-          "display": true,
-          "text": "Hours"
-        }
-      },
-      "x": {
-        "title": {
-          "display": true,
-          "text": "Day of the Week"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true
-      },
-      "title": {
-        "display": true,
-        "text": "Weekly Coding Efficiency"
-      }
-    }
-  }
-}
+<p align="center">
+  <a href="https://www.linkedin.com/in/sasmitha-jayasinghe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sasmitha.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jayasinghesasmitha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+---
 
-🚀 Featured Public Projects
-Here’s a showcase of my public projects from GitHub:
+### 💬 Quote I Live By
 
-🌟 ImageProcessor: A Python-based tool for advanced image processing with filters and transformations. 🖼️
-🛒 FullStackEcommerce: A full-stack e-commerce platform using Java, Spring Boot, and React. 💻
-💬 FlutterChatApp: A cross-platform chat app built with Dart and Flutter. 📱
-🔢 VHDLCounter: A VHDL project implementing a digital counter for FPGA systems. 🔌
-📉 AlgorithmVisualizer: A C++ app to visualize sorting algorithms interactively. 🚀
+> “The best way to predict the future is to invent it.” — Alan Kay
 
-Discover more in my repositories!
+---
 
-🌟 Fun Facts About Me
+<p align="center"><i>Made with ❤️ by Sasmitha | Powered by curiosity & coffee ☕</i></p>
+```
 
-☕ I’m fueled by coffee and code—best combo ever!
-🧑‍💻 Always experimenting with new frameworks and tech stacks.
-🚀 My go-to emoji is the rocket, because I’m always aiming for the stars!
+---
 
+## 📌 Next Steps:
 
-📫 Connect With Me
-Let’s collaborate or just chat about tech! Find me at:
+1. Create a repo named **`jayasinghesasmitha`**
+2. Add the above `README.md` to it.
+3. Pin your best repos on your GitHub profile.
+4. Update project links (`[View](#)`) with actual repo URLs.
 
-📧 Email: sasmitha.jayasinghe@example.com
-🔗 LinkedIn: Sasmitha Jayasinghe
-🐙 GitHub: You’re here! 😄
-🌐 Portfolio: sasmithajayasinghe.dev
+---
 
-
-🎉 Thanks for Visiting!
-I’m thrilled you stopped by! Let’s code the future together! ✨
+Would you like help generating **project preview GIFs**, **badges for skills**, or **interactive portfolio cards** next?
