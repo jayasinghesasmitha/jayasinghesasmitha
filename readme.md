@@ -6,7 +6,8 @@
 📌 Who Am I?
 
 👤 Name:        Sasmitha Jayasinghe
-🎓 Role:        Final-Year Undergraduate @ University of Moratuwa
+🎓 Role:        Third-Year CSE Undergraduate at University of Moratuwa
+
 🎯 Goals:
   - 🚀 Solve real-world problems with technology
   - 🤖 Build smart, autonomous systems
