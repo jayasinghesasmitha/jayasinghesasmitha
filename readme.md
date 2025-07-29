@@ -11,6 +11,7 @@
   - 🚀 Solve real-world problems with technology
   - 🤖 Build smart, autonomous systems
   - 🌍 Empower humans through intelligent machines
+
 💡 Interests:
   - 🛠️ Robotics, ROS2, Arduino, Embedded Systems
   - 🧠 Artificial Intelligence & Machine Learning
