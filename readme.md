@@ -91,7 +91,6 @@
 * 🔬 Computer Vision + Deep Learning
 * 🛰️ ROS2 Navigation Stack
 * ☁️ Cloud Functions + App Deployment
-* 🧠 Neural Networks on Edge Devices
 * 🔐 Firebase Auth + Firestore
 
 ---
