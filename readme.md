@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6F00FF&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Sasmitha+Jayasinghe!;AI+%7C+IoT+%7C+Robotics+%7C+Mobile+Dev+%7C+Fullstack+Explorer;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Typing SVG">
 </p>
+<br>
+<br>
 
 
 
