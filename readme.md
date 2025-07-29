@@ -52,15 +52,37 @@
 
 ---
 
-### 📚 Projects I'm Proud Of
+### 📚 Full stack development pojects
 
+| 💡 Project                              | 🚀 Tech Stack                 | 🔗 Links  |
+| -----------------------------------------| ----------------------------- | --------- |
+| **Bank managemeny system(front end)**    | React                         | [View](https://github.com/jayasinghesasmitha/Bank-Management-System-Bank-A-front-end.git) |
+| **Bank managemeny system(backend)**      | Node.js,MySQL                 | [View](https://github.com/jayasinghesasmitha/Bank-Management-System-Bank-A-back-end.git) |
+| **Book Buddies website**                 | React, Ballerina, MySQL       | [View](https://github.com/jayasinghesasmitha/ballerinaProject2024-Book-buddies-.git) |
+| **Mora Hiking club website**             | React, Node.js, MySQL         | [View](https://github.com/jayasinghesasmitha/Mora_Hiking_Club_Website.git) |
+| **Pizza delevery website(Ongoing)**      | React, Node.js, Mongo DB      | [View](https://github.com/jayasinghesasmitha/Take-Meal.git) |
+
+### 📚 mobile/web development pojects
 | 💡 Project                      | 🚀 Tech Stack                 | 🔗 Links  |
-| ------------------------------- | ----------------------------- | --------- |
-| **ROS2 Bot Simulation**         | ROS2, URDF, Gazebo, C++       | [View](#) |
-| **MoodSync Lamp**               | Flutter, Firebase, Emotion AI | [View](#) |
-| **AI Book Recommender**         | Python, NLP, Streamlit        | [View](#) |
-| **Voice-Controlled Wheelchair** | Arduino, Sensors, ML          | [View](#) |
-| **BookEx Web App**              | React.js, Firebase            | [View](#) |
+| --------------------------------| ----------------------------- | --------- |
+| **weather app**                 | Flutter,Node.js,Firebase      | [View](https://github.com/jayasinghesasmitha/App-Development.git) |
+| **Book my salon**               | Flutter,Node.js,Superbase     | [View](https://github.com/jayasinghesasmitha/Vivora-Mobile-app.git) |
+
+### 📚 IoT and ICE related pojects 
+| 💡 Project                                | 🚀 Tech Stack                            | 🔗 Links  |
+| ------------------------------------------| ------------------------------------------| --------- |
+| **Robocon**                               | Flutter,Micro C                           | [View](https://github.com/jayasinghesasmitha/Robocon-2025.git) |
+| **IESL Robogames Competition Rounds**     | Python,We Bot simulation, Pi OS           | [View](https://github.com/jayasinghesasmitha/IESL_Robo_Games_24.git) |
+| **Smart Home Automation system**          | RHasspy,Mediapipe,OpenCV,MQTT,Python      | [View](https://github.com/jayasinghesasmitha/IoT-Based-Smart-Home-Automation-System-Voice-and-Gesture-Based-Control-section.git) |
+| **Moodsync lamp(Ongoing)**                | Python,Node.js,Micro C                    | [View](https://github.com/jayasinghesasmitha/moodsync-lamp.git) |
+| **Energy management system(Ongoing)**     | Micro C                                   | [View](https://github.com/CSE-ICE-22/energy-management-system.git) |
+
+### 📚 Other pojects 
+| 💡 Project                                | 🚀 Tech Stack                            | 🔗 Links  |
+| ------------------------------------------| ------------------------------------------| --------- |
+| **Ninja Game**                            | Python                                    | [View](https://github.com/jayasinghesasmitha/Game-Development.git) |
+| **AI chat bot with API**                  | Python                                    | [View](https://github.com/jayasinghesasmitha/AI-chat-Bot.git) |
+| **AI image generator with API**           | Python                                    | [View](https://github.com/jayasinghesasmitha/AI-Photo-generator.git) |
 
 ---
 
