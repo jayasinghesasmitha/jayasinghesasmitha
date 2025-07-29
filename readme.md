@@ -111,13 +111,3 @@
 
 ---
 
-### 💬 Quote I Live By
-
-> “The best way to predict the future is to invent it.” — Alan Kay
-
----
-
-<p align="center"><i>Made with ❤️ by Sasmitha | Powered by curiosity & coffee ☕</i></p>
-```
-
----
