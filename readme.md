@@ -68,7 +68,7 @@
 | 💡 Project                      | 🚀 Tech Stack                 | 🔗 Links  |
 | --------------------------------| ----------------------------- | --------- |
 | **weather app**                 | Flutter,Node.js,Firebase      | [View](https://github.com/jayasinghesasmitha/App-Development.git) |
-| **Book my salon**               | Flutter,Node.js,Superbase     | [View](https://github.com/jayasinghesasmitha/Vivora-Mobile-app.git) |
+| **Book my salon**               | Flutter,Node.js,Supabase     | [View](https://github.com/jayasinghesasmitha/Vivora-Mobile-app.git) |
 
 ### 📚 IoT and ICE related pojects 
 | 💡 Project                                | 🚀 Tech Stack                            | 🔗 Links  |
